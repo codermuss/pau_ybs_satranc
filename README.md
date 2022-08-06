@@ -1,4 +1,4 @@
 # pau_ybs_satranc
 
-Donanım içeren satranç tahtası
+Donanım içeren satranç uygulaması
 
